@@ -1,0 +1,6 @@
+[submodule "ReactBlog"]
+	path = ReactBlog
+	url = https://github.com/muhyasin89/ReactBlog.git
+[submodule "FlaskBlog"]
+	path = FlaskBlog
+	url = https://github.com/muhyasin89/FlaskBlog.git
