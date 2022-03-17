@@ -1,6 +1,6 @@
-[submodule "ReactBlog"]
-	path = ReactBlog
+[submodule "frontend"]
+	path = frontend
 	url = https://github.com/muhyasin89/ReactBlog.git
-[submodule "FlaskBlog"]
-	path = FlaskBlog
+[submodule "backend"]
+	path = backend
 	url = https://github.com/muhyasin89/FlaskBlog.git
