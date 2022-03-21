@@ -1,4 +1,4 @@
-version: '3'
+version: '3.8'
 services: 
     frontend:
         build: 
@@ -10,7 +10,7 @@ services:
             - "3000:3000"        
         volumes: 
             - ./frontend:/frontend
-            - /frontend/node_modules
+        image: app:react
     backend:
         build: 
             context: ./backend
